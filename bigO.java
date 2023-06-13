@@ -1,4 +1,4 @@
-
+// I began this project in java since I was unfamiliar with JavaScript, I then learned JavaScript and converted this code to JavaScript.
 
 import java.util.*;
 import java.io.*;
