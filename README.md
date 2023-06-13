@@ -1,2 +1,2 @@
 # Big-O-Calculator
-This is the repository for my first personal project, the Big O Calculator
+This is the repository for my first personal project, the Big O Calculator. This project features both front-end and back-end development with Javascript, HTML, and CSS. In this website, the user simply inputs a block of code and the website will return the Big O runtime of that code. This website cannot calculate runtimes at exponential and above because it is simply impossible to calculate such runtimes using text-parsing. Despite this, the website can calculate all runtimes below the exponential time. I was motivated to create this project after learning about Big O notation in my Data Structures and Algorithims class.
